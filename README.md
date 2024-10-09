@@ -5,7 +5,7 @@ Here is the version on my local computer. How cool is that?
 
 ## Brooke makes changes here
 
-
+Brooke is the owner of this project. Yay!
 
 ## Collaborator makes changes here
 
