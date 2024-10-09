@@ -12,5 +12,5 @@ Brooke is the owner of this project. Yay!
 Hi it's Nicole your collaborator.
 
 ## Both make changes here
-Changes are cool, merge conflict merge conflict
 
+Making a merge conflict in Brooke's project
