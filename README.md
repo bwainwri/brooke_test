@@ -9,6 +9,6 @@ Here is the version on my local computer. How cool is that?
 
 ## Collaborator makes changes here
 
-
+Hi it's Nicole your collaborator.
 
 ## Both make changes here
